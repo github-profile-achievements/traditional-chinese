@@ -1,12 +1,12 @@
-# Complete list of all GitHub Profile badges and Achievements
+# 所有 GitHub 個人資料徽章和成就的完整列表
 
-#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+#### 在您的個人資料中顯示成就完全是可選的； 預設情況下，任何檢視您的公開個人資料的人都可以看到它們。
 
-You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+您可以轉到您的[個人資料設定](https://github.com/settings)，選擇不讓成就顯示在您的個人資料上。
 
 <br>
 
-| Badge | Name | How to get                                                                                                                                                       |
+| 徽章 | 名稱 | 如何取得                                                                                                                                                       |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
 | ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
