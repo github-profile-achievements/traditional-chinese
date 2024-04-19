@@ -6,27 +6,27 @@
 
 <br>
 
-| 徽章 | 名稱 | 如何取得                                                                                                                                                       |
+| 徽章 | 名稱 | 如何獲得                                                                                                                                                       |
 | :---: | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | React to something on GitHub with a ❤️ emoji **(Being tested)** |
-| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | User had PRs merged in multiple public repositories **(Being tested)** |
-| ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#badge-tiers).                                                                                              |
-| ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | Closed an issue or a pull request within 5 min of opening.                                                                                                       |
+| ![Achievement badge Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | **Heart On Your Sleeve** | 使用 ❤️ 表情符號對 GitHub 上的內容做出反應 **(正在測試中)** |
+| ![Achievement badge Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | **Open Sourcerer** | 使用者已將 PR 合併到多個公共儲存庫中 **(正在測試中)**  |
+| ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | **Starstruck** | Created a repository that has **16 stars** or [more](#badge-tiers)                                                                                              |
+| ![Achievement badge Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | **Quickdraw** | 在開啟後 5 分鐘內關閉問題或拉取請求                                                                                                       |
 | ![Achievement badge Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | **Pair Extraordinaire** | Coauthored in a **two** or [more](#badge-tiers) merged pull request.                                                                                             |
 | ![Achievement badge Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | **Pull Shark** | **2 pull requests** merged (or [more](#badge-tiers)).                                                                                                            |
 | ![Achievement badge Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | **Galaxy Brain** | 2 accepted answers or [more](#badge-tiers).                                                                                                                      |
-| ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | Merged **at least one** pull request without code review .                                                                                                       |
+| ![Achievement badge YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | **YOLO** | 在不進行程式碼審查的情況下合併 **至少一個** PR                                                                                                      |
 | ![Achievement badge Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | **Public Sponsor** | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors).                                                                                  |
 | ![Achievement badge Mars 2020 Contributor](https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png) | **Mars 2020 Contributor** | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter). *Now unable to earn.* |
 | ![Achievement badge 2020 GitHub Archive Program](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com/). *Now unable to earn.*                                 |
 
 <br>
 
-## Badge Tiers
+## 成就徽章等級
 
-Some Achievements not only have the base version, but also tiers.
+一些徽章不僅具有基礎版，還可以繼續升級
 
-| Achievement | Default | Bronze | Silver | Gold |
+| 成就 | 基礎 | 青銅 | 白銀 | 黃金 |
 | --- | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Achievement badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Bronze badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png) | ![Silver badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png) | ![Gold badge Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png) |
 | | 16 stars | 128 stars | 512 stars | 4096 stars <br>[@torvalds](https://github.com/torvalds?achievement=starstruck&tab=achievements) |
@@ -63,15 +63,15 @@ Some Achievements not only have the base version, but also tiers.
 
 <br>
 
-## Achievement Skin Tone
+## 成就面板色調
 
-Some achievements' appearance depends on your Emoji Skin Tone Preference.
+一些成就的外觀取決於你的 Emoji 偏好設定
 
-You can change your preferred Skin Tone by going to [appearance settings](https://github.com/settings/appearance).
+你可以在[外觀設定](https://github.com/settings/appearance)更改你的偏好設定
 
 <br>
 
-| **Badge** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
+| **徽章** | 👋 | 👋🏻 | 👋🏼 | 👋🏽 | 👋🏾 | 👋🏿 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Starstruck** | ![Default skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | ![Light skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light.png) | ![Light-medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ![Medium skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium.png) | ![Medium-dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--medium-dark.png) | ![Dark skin tone of Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--dark.png) |
 | **Quickdraw** | ![Default skin tone of Quickdraw][q-default] | ![Light skin tone of Quickdraw][q-light] | ![Light-medium skin tone of Quickdraw][q-light-medium] | ![Medium skin tone of Quickdraw][q-medium] | ![Medium-dark skin tone of Quickdraw][q-medium-dark] | ![Dark skin tone of Quickdraw][q-dark] |
@@ -91,12 +91,12 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 <br>
 
-## Highlights Badges
+## 高亮成就
 
-| Badge | Name | How to achieve |
+| 徽章 | 名稱  | 如何獲得 |
 | --- | --- | --- |
-| ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
-| ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | Have  your reply to a discussion marked as the answer |
+| ![White badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)![Black badge GitHub Pro](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) | **Pro** | 使用 [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
+| ![Dark badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078083-15a75f15-b040-4a92-8d70-561a206d9fd9.svg#gh-dark-mode-only)![Light badge Discussion answered](https://user-images.githubusercontent.com/65187002/173078106-28bea542-4620-46ee-837d-defda3e44ca6.svg#gh-light-mode-only) | **Discussion answered** | 在討論中的回覆被標記為答案 |
 | ![Dark badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079579-3c393d22-7a13-4e7d-87b8-341fb613d52b.svg#gh-dark-mode-only)![Light badge Developer Program Member](https://user-images.githubusercontent.com/65187002/173079614-33f43a97-1cc2-4228-85e3-ef43836e17c2.svg#gh-light-mode-only) | **Developer Program Member** | Be a registered member of the [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | **Security Bug Bounty Hunter** | Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/) |
 | ![Light badge GitHub Campus Expert][gce-dark]![Dark badge GitHub Campus Expert][gce-light] | **GitHub Campus Expert** | Participate in the [GitHub Campus Program](https://education.github.com/experts) |
@@ -109,6 +109,6 @@ You can change your preferred Skin Tone by going to [appearance settings](https:
 
 <br>
 
-## Do you have some ideas?
+## 你有任何想法嗎？
 
-If you have questions or suggestions on how to improve the information on this page, you can always write to [issues](https://github.com/github-profile-achievements/template/issues).
+如果您對如何改進此頁面上的資訊有疑問或建議，您可以隨時提 [issues](https://github.com/github-profile-achievements/template/issues).
