@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Repository moved to https://github.com/gomzyakov/achievements
+
 # 所有 GitHub 個人資料徽章和成就的完整列表
 
 #### 在您的個人資料中顯示成就完全是可選的； 預設情況下，任何檢視您的公開個人資料的人都可以看到它們。
